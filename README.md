@@ -40,4 +40,4 @@ Python | pandas | scikit-learn | XGBoost | Power BI | matplotlib
 4. Push automatic payment adoption
 
 ## 📸 Dashboard Preview
-![Dashboard](telco data dashboard.png)
+![Dashboard](telco%20data%20dashboard.png)
